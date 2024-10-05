@@ -1,0 +1,11 @@
+2024-10-05 11:24:01,834 - WARNING - Failed login attempt (email not found): chetanj23@lpu.in
+2024-10-05 11:24:29,663 - WARNING - Failed login attempt (email not found): chetanj23@lpu.in
+2024-10-05 11:26:15,620 - INFO - New user signed up: chetanj23@lpu.in
+2024-10-05 11:26:56,287 - INFO - Successful login for user: chetanj23@lpu.in
+2024-10-05 11:27:04,170 - INFO - Public IP fetched successfully: 38.183.60.127
+2024-10-05 11:27:04,583 - INFO - Geolocation fetched for IP: 38.183.60.127
+2024-10-05 11:27:41,516 - INFO - Password reset requested for user: chetanj23@lpu.in
+2024-10-05 11:27:59,445 - INFO - Password reset successful for user: chetanj23@lpu.in
+2024-10-05 11:28:16,705 - INFO - Successful login for user: chetanj23@lpu.in
+2024-10-05 11:28:20,512 - INFO - Public IP fetched successfully: 38.183.60.127
+2024-10-05 11:28:21,340 - INFO - Geolocation fetched for IP: 38.183.60.127
